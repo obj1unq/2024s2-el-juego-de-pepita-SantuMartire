@@ -15,7 +15,7 @@ object pepita {
 		energia = energia - 10 - kms 
 	}
 	
-	method energia() {
+	method energia(){
 		return energia
 	}
 
